@@ -1,0 +1,40 @@
+h1 {
+	text-decoration: none;
+	font-family: "Futura", Helvetica, sans-serif;
+}
+
+body {
+	background-image: url("images/congruent_pentagon.png");
+}
+
+p {
+	font-size: 20px;
+	font-family: "Futura", Helvetica, sans-serif;
+}
+
+#header {
+	text-align: center;
+}
+
+#box_1 {
+	width: 40%;
+	float: left;
+	padding: 5%;
+	padding-top: 0;
+}
+
+#box_2 {
+	width: 40%;
+	float: left;
+	padding: 5%;
+	padding-top: 0;
+}
+
+#box_3 {
+	padding: 5%;
+	padding-top: 0;
+}
+
+.justify {
+}
+
